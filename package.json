@@ -1,0 +1,21 @@
+{
+  "name": "qyh-ui-design",
+  "version": "1.0.0",
+  "packageManager": "pnpm@7.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "pnpm --filter=example dev",
+    "site": "pnpm --filter=site dev",
+    "site:build": "pnpm --filter=site build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.40"
+  },
+  "devDependencies": {
+    "vite": "^3.1.7"
+  }
+}
