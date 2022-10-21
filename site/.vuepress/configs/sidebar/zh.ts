@@ -1,7 +1,7 @@
 export const zh = [
     // SidebarItem
     {
-        text: 'title',
+        text: 'Title',
         link: '/components/title/',
         children: [
             // SidebarItem
@@ -13,7 +13,7 @@ export const zh = [
         ],
     },
     {
-        text: 'button1',
+        text: 'Button1',
         link: 'https://github.com',
         children: [
         ],

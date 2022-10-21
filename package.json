@@ -7,7 +7,8 @@
   "scripts": {
     "example": "pnpm --filter=example dev",
     "site": "pnpm --filter=site dev",
-    "site:build": "pnpm --filter=site build"
+    "site:build": "pnpm --filter=site build",
+    "ui:build": "pnpm --filter=packages/** build"
   },
   "keywords": [],
   "author": "",
